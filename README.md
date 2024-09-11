@@ -4,6 +4,11 @@
 <h3 align="center">Un apasionado Desarrollador Backend de Colombia</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Python, Django, NodeJS, Express, SQL**
+<div align="center">
+   
+   ![irenly's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenly&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
