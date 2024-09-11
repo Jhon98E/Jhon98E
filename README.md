@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, Soy Jhon David Enríquez</h1>
 <h3 align="center">Un apasionado Desarrollador Backend de Colombia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Python, Django, NodeJS, Express, SQL**
+- 🌱 Actualmente estoy aprendiendo **Python, Django, JavaScript, NodeJS, Express, SQL**
 <div align="center">
    
    ![Jhon98E's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon98E&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
