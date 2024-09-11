@@ -6,7 +6,7 @@
 - 🌱 Actualmente estoy aprendiendo **Python, Django, NodeJS, Express, SQL**
 <div align="center">
    
-   ![Jhon98E's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenly&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   ![Jhon98E's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon98E&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    
 </div>
 
