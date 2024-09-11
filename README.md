@@ -10,7 +10,7 @@
    
 </div>
 
-## <img src="https://media1.tenor.com/m/UOvBsnN3Jb4AAAAC/kitty-kitten.gif" width ="25"><b>📬 Contactate Conmigo</b>
+## <b>📬 Contactate Conmigo</b>
 
    [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/jhondavidenriquez)
    [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=jhonenriquez1998@gmail.com)
