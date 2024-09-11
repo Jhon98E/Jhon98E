@@ -22,7 +22,7 @@
     
 - **Back-End Development**:
     
-    [![My Skills](https://skillicons.dev/icons?i=django,laravel,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,Python)](https://skillicons.dev)
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 
 - **Database**:
