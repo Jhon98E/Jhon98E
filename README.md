@@ -1,65 +1,115 @@
-## About Me 👋
+<h2 align="left">About Me 👋</h2>
+
+###
 
 <h1 align="center">Hi 👋, I'm Jhon David Enríquez</h1>
+
+###
+
 <h3 align="center">Backend Developer passionate about creating efficient technological solutions 🚀</h3>
 
-💡 I'm passionate about software development, with a focus on backend and databases. I enjoy solving problems and optimizing processes with technologies like **Python, Django, Node.js, and SQL**.  
+###
 
-🌱 I'm currently learning more about **software architecture, design patterns, and mobile development with Flutter**.
+<p align="center">💡 I'm passionate about software development, with a focus on backend and databases. I enjoy solving problems and optimizing processes with technologies like Python, Django, Node.js, and SQL.<br><br>🌱 I'm currently learning more about software architecture, design patterns, and mobile development with Flutter.<br><br>🔎 I'm looking for opportunities to collaborate on challenging projects and continue growing as a developer.</p>
 
-🔎 I'm looking for opportunities to collaborate on challenging projects and continue growing as a developer.
+###
+
+<h2 align="left">📬 Contact Me</h2>
+
+###
+
+<p align="left">If you want to talk about technology, collaborate on a project, or just say hi, feel free to message me!<br><br>📩 Email: jhonenriquez1998@gmail.com<br>🔗 LinkedIn: linkedin.com/in/jhondavidenriquez</p>
+
+###
+
+<div align="left">
+  <a href="jhonenriquez1998@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="linkedin.com/in/jhondavidenriquez" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">💻 Technologies and Tools</h2>
+
+###
+
+<h3 align="center">🛠️ Backend:</h3>
+
+###
 
 <div align="center">
-   
-   ![Jhon98E's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon98E&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
-   
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
 </div>
 
-## 📬 Contact Me  
+###
 
-If you want to talk about technology, collaborate on a project, or just say hi, feel free to message me!  
-
-📩 **Email:** [jhonenriquez1998@gmail.com](mailto:jhonenriquez1998@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/jhondavidenriquez](https://www.linkedin.com/in/jhondavidenriquez)
-
-
-## 💻 Technologies and Tools
-
-<p align="center"> 
-    
-### 🛠️ Backend:
-    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" background-color="white"/> </a>
-  <br>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="django" width="40" height="40"/> </a>
-
-### 🗄️ Databases:
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-
-### 📱 Mobile Development:
-
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40"/> </a>
-
-### 🛠️ DevOps & Tools:
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-</p>
-
-<div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon98E&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-🚀 **Always looking for new challenges and learning!**  
-📫 If you want to work together or exchange ideas, feel free to contact me.
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
+
+###
+
+<h3 align="center">🗄️ Databases:</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="center">📱 Mobile Development:</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+</div>
+
+###
+
+<h3 align="center">🛠️ DevOps & Tools:</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhon98E&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhon98E&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="center">🚀 Always looking for new challenges and learning!<br>📫 If you want to work together or exchange ideas, feel free to contact me.</p>
+
+###
