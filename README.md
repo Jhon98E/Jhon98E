@@ -86,21 +86,7 @@ Disfruto enfrentar retos técnicos, aprender nuevas tecnologías y mejorar cada 
 
 ---
 
-<h2 align="left">📊 Estadísticas de GitHub</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhon98E&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhon98E&layout=compact&langs_count=5&theme=radical" height="150" alt="languages" />
-</div>
-
----
-
 <p align="center">
 🚀 Siempre en búsqueda de nuevos retos y aprendizaje continuo.<br>
 🤝 Si quieres colaborar, intercambiar ideas o construir algo interesante, escríbeme.
 </p>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jhon98E.Jhon98E&"  />
-</div>
