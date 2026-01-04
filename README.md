@@ -1,16 +1,16 @@
-<h2 align="left">About Me 👋</h2>
+<h2 align="left">Sobre Mi 👋</h2>
 
 ###
 
-<h1 align="center">Hi 👋, I'm Jhon David Enríquez</h1>
+<h1 align="center">Hola 👋, Mi nombre es Jhon David Enríquez</h1>
 
 ###
 
-<h3 align="center">Backend Developer passionate about creating efficient technological solutions 🚀</h3>
+<h3 align="center">Desarrollador de software apasionado por crear soluciones tecnológicas eficientes 🚀</h3>
 
 ###
 
-<p align="center">💡 I'm passionate about software development, with a focus on backend and databases. I enjoy solving problems and optimizing processes with technologies like Python, Django, Node.js, and SQL.<br><br>🌱 I'm currently learning more about software architecture, design patterns, and mobile development with Flutter.<br><br>🔎 I'm looking for opportunities to collaborate on challenging projects and continue growing as a developer.</p>
+<p align="center">Soy tecnólogo en Desarrollo de Software y estudiante de Ingeniería de Software, apasionado por crear soluciones tecnológicas que no solo funcionen, sino que tengan sentido y aporten valor real. Me muevo con soltura entre el análisis, el diseño y la construcción de aplicaciones, siempre con enfoque en buenas prácticas, código limpio y aprendizaje constante (porque el código perfecto no existe, pero se persigue). Disfruto enfrentar retos, aprender nuevas tecnologías y mejorar cada proyecto como si fuera el siguiente nivel de un videojuego: con más dificultad, pero también con más experiencia.</p>
 
 ###
 
