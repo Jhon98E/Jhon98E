@@ -3,9 +3,11 @@
 <h3 align="center">Tecnólogo en Desarrollo de Software | Estudiante de Ingeniería de Software 🚀</h3>
 
 ---
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
 ---
 
 <h2 align="left">🙋‍♂️ Sobre mí</h2>
@@ -96,3 +98,9 @@ Disfruto enfrentar retos técnicos, aprender nuevas tecnologías y mejorar cada 
 🚀 Siempre en búsqueda de nuevos retos y aprendizaje continuo.<br>
 🤝 Si quieres colaborar, intercambiar ideas o construir algo interesante, escríbeme.
 </p>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jhon98E.Jhon98E&"  />
+</div>
