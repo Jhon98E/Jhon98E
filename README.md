@@ -3,6 +3,10 @@
 <h3 align="center">Tecnólogo en Desarrollo de Software | Estudiante de Ingeniería de Software 🚀</h3>
 
 ---
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+---
 
 <h2 align="left">🙋‍♂️ Sobre mí</h2>
 
