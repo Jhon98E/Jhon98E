@@ -91,4 +91,5 @@ Disfruto enfrentar retos técnicos, aprender nuevas tecnologías y mejorar cada 
 
 ---
 
+![Jhon98E's Stats](https://github-readme-stats.vercel.app/api?username=Jhon98E&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![Jhon98E's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon98E&theme=dracula&show_icons=true&hide_border=false&layout=compact)
